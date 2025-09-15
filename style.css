@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(235, 231, 228);
+    box-sizing: border-box;
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+}
+
+h1 {
+    padding: 20px;    
+    background-color: silver;
+}
+
+p {
+    padding: 10px;
+}
+
+a {
+    outline: solid navy 8px;    
+   }
+
+.description {
+    margin: 50px;
+}
+
+.ingredients {
+    margin: 50px;
+}
+
+.steps {
+    margin: 50px;
+}
+
+img {
+    margin: 30px;
+}
